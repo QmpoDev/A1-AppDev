@@ -86,7 +86,7 @@
                                     <h2 class="text-xl font-semibold text-black dark:text-white">Who am I?</h2>
 
                                     <p class="mt-4 text-sm/relaxed">
-                                        I am a passionate individual with a strong background in [your field or industry]. I love music and instruments, which fuel my creativity. I live in Sitio Paratong, Bacnotan, La Union, where I find inspiration in my surroundings. I am always eager to learn and grow, both personally and professionally.
+                                        I am a passionate individual with a strong background in Computer Science. I love music and instruments, which fuel my creativity. I live in Sitio Paratong, Bacnotan, La Union, where I find inspiration in my surroundings. I am always eager to learn and grow, both personally and professionally.
                                     
                                     </p>
                                 </div>
@@ -100,9 +100,14 @@
                         >
                         
                         <div class="pt-3 sm:pt-5">
-                            <h2 class="text-xl font-semibold text-black dark:text-white">Contact Me</h2>
+                            <h2 class="text-xl font-semibold text-black dark:text-white">List of Projects</h2>
                             <p class="mt-4 text-sm/relaxed">
-                                Feel free to reach out to me for any inquiries or collaborations. You can contact me via email at <b>paulemmanuelle.quimpo@lorma.edu</b> or connect with me on my cellphone number - <b>(+63)9391331146</b>. I look forward to hearing from you!
+                                
+                                    <ul>Fortuna: AI Finance Assistant</ul>
+                                    <ul>Curascope: AI Blood Cell Detector</ul>
+                                    <ul>SGMA: Student Grade Management & Analysis</ul>
+                                    
+                                
                             </p>
                         </div>
                         
